@@ -1,0 +1,9 @@
+*.iml
+*.ipr
+.dart_tool/
+build/
+*.exe
+*.pdb
+*.obj
+*.dill
+
